@@ -39,4 +39,5 @@ Lane Departure Warning System: Enhance the lane detection algorithm to provide w
 Tyre Puncture Prevention System: Integrate sensors or image processing techniques to detect sharp objects (like pins) on the road to prevent tyre punctures.
 
 Author
-Naman Jain
+
+Manpreet kour
